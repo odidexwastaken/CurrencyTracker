@@ -9,6 +9,8 @@ Bu proje, Final Ödevi kapsamında **Frankfurter API** kullanılarak geliştiril
 ## Nasıl Çalıştırılır?
 Projeyi indirin ve Visual Studio ile açarak çalıştırın.
 
+--
+
 **Öğrenci:** Emir Ecrin MALKOÇ
 
 **Öğrenci No:** 20240108044
